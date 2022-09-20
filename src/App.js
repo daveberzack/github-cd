@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD Version 2
+          CI/CD Version 3
         </a>
       </header>
     </div>
