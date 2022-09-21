@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD Version 3
+          RIP The Queen.
         </a>
       </header>
     </div>
